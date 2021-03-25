@@ -1,0 +1,56 @@
+tr:nth-child(even){
+  background-color: #f2f2f2;
+}
+tr:nth-child(odd){
+  background-color: #ffffff;
+}
+/*
+Used for testing different detail tab options
+#detailRow{
+  display: none;
+}*/
+.content{
+  display: none;
+}
+.click{
+  border: 1px solid #2962fe;
+  background-color: white;
+  padding: 5px 20px;
+  text-align: center;
+  color: #2962fe;
+  border-radius: 2px;
+}
+.rid{
+  border: 1px solid rgb(177, 177, 177);
+  border-top: none;
+  padding: 12px 10px 12px 10px;
+  color: #4a4a4a;
+  font-weight: 550;
+}
+.rtime{
+  border: 1px solid rgb(177, 177, 177);
+  border-top: none;
+  padding: 12px 10px 12px 10px;
+  color: #4a4a4a;
+  font-weight: 550;
+}
+.rplace{
+  border: 1px solid rgb(177, 177, 177);
+  border-top: none;
+  padding: 12px 10px 12px 10px;
+  color: #4a4a4a;
+  font-weight: 550;
+}
+.rmag{
+  border: 1px solid rgb(177, 177, 177);
+  border-top: none;
+  padding: 12px 10px 12px 10px;
+  color: #4a4a4a;
+  font-weight: 550;
+}
+.rmore{
+  border: 1px solid rgb(177, 177, 177);
+  border-right: none;
+  border-top: none;
+  padding: 12px 10px 12px 10px;
+}
